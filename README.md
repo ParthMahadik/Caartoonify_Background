@@ -1,2 +1,2 @@
 # Caartoonify_Background
-Cartoonify thr background of an image or a video
+Cartoonify the background of an image or a video
